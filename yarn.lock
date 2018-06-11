@@ -3,5 +3,5 @@
 
 
 "bs-platform@git+https://github.com/bsansouci/bsb-native":
-  version "2.0.1"
-  resolved "git+https://github.com/bsansouci/bsb-native#127ffb6597603d60b8409ed3782665ee4291e9a0"
+  version "3.2.0"
+  resolved "git+https://github.com/bsansouci/bsb-native#2dd1af6c38745cb0b04ec6d7a94e8a4eff41293f"

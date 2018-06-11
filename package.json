@@ -10,7 +10,8 @@
     "ppx_metaquot_402": "./ppx_metaquot_402.sh"
   },
   "scripts": {
-    "postinstall": "bsb -make-world -backend native"
+    "postinstall": "bsb -make-world -backend native",
+    "watch": "bsb -make-world -backend native -w"
   },
   "keywords": [],
   "author": "",
